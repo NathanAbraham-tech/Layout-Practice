@@ -1,12 +1,36 @@
 h1{
     text-align: center;
     height: 100px;
-    width: 1000px;
+    width: 100%;
     background-color: purple;
     margin: 15xp;
     font-size: large;
-    display: block;
+    display: inline-block;
+    padding: 1%;
+    border: 5px solid black;
+}
+
+.Darsh{
+    margin:5px;
+    display:inline-block;
+    text-align:center; 
+}
+.Darsh2{
+    margin:5px;
+    display:inline-block;
+    text-align:center; 
+}
+.Darsh3{
+    margin:5px;
+    display:inline-block;
+    text-align:center; 
+    
+}
+.all-content{
+    display:flex;
+    
 }
 .sidebar{
+    width:20%
     
 }
